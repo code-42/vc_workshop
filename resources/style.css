@@ -1,7 +1,7 @@
 body{
     background-color: #e3deee;
     /*padding-top: 65px;*/
-    margin: 0 0 0 40px;
+    margin: 0 40px; 0 40px;
 }
 
 h1{
@@ -19,6 +19,7 @@ img{
     width: 100%;
     margin-left: 0;
     margin-right: 0;
+    /*margin: 0 40px; 0 40px;*/
 }
 
 .video {
@@ -57,7 +58,7 @@ img{
 }
 
 #top10{
-    width:80%;
+    width:100%;
 }
 #intro{
     font-size:large;
